@@ -14,8 +14,7 @@ Types of cities analyzed were urban, suburban, and rural. Total ride count, driv
 See Figure 1 for results of the calculated data. There are the most urban drivers and rides, while urban fare is the lowest. The rural ride-sharing is less popular and is more expensive for customers to receive rides, at approximately $10 more per ride. The larger the ratio is between drivers and rides, the higher the fare.
 <br><br><b>Figure 1</b>
 <br><img src="https://github.com/alexdallman1029/PyBer_Analysis/blob/main/Analysis/Pyber_data.png" width=500><br>
-
-<br><br><b>Figure 2</b>
+<br><b>Figure 2</b>
 <br><img src="https://github.com/alexdallman1029/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png" width = 1000><br>
 
 
